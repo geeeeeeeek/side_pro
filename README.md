@@ -24,6 +24,8 @@
 
 - [白嫖cloudflare搭建副业网站](https://youtu.be/UzOmcT1vzao?si=8Gofews1iciYFuF4)
 
+- [零成本副业 利用cloudflare workers搭建副业网站](https://youtu.be/6Vsj6UK0P_A?si=600YI5__WQIHIOrm)
+
 
 
 
