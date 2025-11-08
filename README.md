@@ -26,6 +26,8 @@
 
 - [零成本副业 利用cloudflare workers搭建副业网站](https://youtu.be/6Vsj6UK0P_A?si=600YI5__WQIHIOrm)
 
+- [网站集成亚马逊联盟赚佣金 过程教学](https://youtu.be/6V2XDo9Uy1o?si=jKsboOujLbn-xCDH)
+
 
 
 
