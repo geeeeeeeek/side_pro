@@ -28,6 +28,8 @@
 
 - [网站集成亚马逊联盟赚佣金 过程教学](https://youtu.be/6V2XDo9Uy1o?si=jKsboOujLbn-xCDH)
 
+- [手把手教你申请一台永久免费的谷歌云服务器](https://youtu.be/p9I1TKNpwfM?si=8CJ6i2dHCu4nfwJg)
+
 
 
 
