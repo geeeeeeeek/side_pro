@@ -30,6 +30,8 @@
 
 - [手把手教你申请一台永久免费的谷歌云服务器](https://youtu.be/p9I1TKNpwfM?si=8CJ6i2dHCu4nfwJg)
 
+- [使用cloudflare搭建博客网站教程](https://youtu.be/OvZzECdKaek?si=v8FS2jplHERgZU6K)
+
 
 
 
