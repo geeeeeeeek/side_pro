@@ -18,3 +18,9 @@
 ### 源码
 
 https://github.com/geeeeeeeek/fangdai
+
+### 视频教程
+
+https://www.youtube.com/watch?v=n8gUh59noyI&t=9s
+
+
