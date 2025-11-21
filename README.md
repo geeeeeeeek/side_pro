@@ -32,6 +32,8 @@
 
 - [使用cloudflare搭建博客网站教程](https://youtu.be/OvZzECdKaek?si=v8FS2jplHERgZU6K)
 
+- [利用谷歌Firebase免费服务搭建副业网站](https://github.com/geeeeeeeek/side_pro/blob/master/docs/%E8%B0%B7%E6%AD%8Cfirebase%E6%90%AD%E5%BB%BA%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7%E7%BD%91%E7%AB%99.md)
+
 
 
 
