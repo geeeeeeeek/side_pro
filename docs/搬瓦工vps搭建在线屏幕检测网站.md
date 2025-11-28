@@ -22,3 +22,7 @@
 ### adsterra注册地址
 
 https://beta.publishers.adsterra.com/referral/Pbnm7zyjim
+
+### 视频教程
+
+https://www.youtube.com/watch?v=ZPfMIho5f74
