@@ -8,3 +8,8 @@
 
 - https://ping.pe
 - python爬虫脚本
+
+
+### 视频教程
+
+https://www.youtube.com/watch?v=oCm3DmkEna8&t=19s
