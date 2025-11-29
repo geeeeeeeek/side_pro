@@ -21,7 +21,7 @@
 
 ```
 // 编辑authorized_keys
-// vim ~/.ssh/authorized_key
+// vim ~/.ssh/authorized_keys
 ```
 
 #### 4. 打开密钥登录开关
