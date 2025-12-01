@@ -36,6 +36,7 @@
 
 - [基于搬瓦工vps搭建的在线招聘副业网站](https://github.com/geeeeeeeek/side_pro/blob/master/docs/%E5%9F%BA%E4%BA%8E%E6%90%AC%E7%93%A6%E5%B7%A5%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E5%9C%A8%E7%BA%BF%E6%8B%9B%E8%81%98%E7%BD%91%E7%AB%99.md)
 
+- [网站新手如何做谷歌seo优化](https://github.com/geeeeeeeek/side_pro/blob/master/docs/%E7%BD%91%E7%AB%99%E6%96%B0%E6%89%8B%E5%A6%82%E4%BD%95%E5%81%9A%E8%B0%B7%E6%AD%8Cseo%E4%BC%98%E5%8C%96.md)
 
 
 
