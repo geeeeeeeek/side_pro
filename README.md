@@ -38,6 +38,6 @@
 
 - [网站新手如何做谷歌seo优化](https://github.com/geeeeeeeek/side_pro/blob/master/docs/%E7%BD%91%E7%AB%99%E6%96%B0%E6%89%8B%E5%A6%82%E4%BD%95%E5%81%9A%E8%B0%B7%E6%AD%8Cseo%E4%BC%98%E5%8C%96.md)
 
-
+- [谷歌AdSense基本介绍](https://www.youtube.com/watch?v=ddPlZBJsKbE&t=84s)
 
 
