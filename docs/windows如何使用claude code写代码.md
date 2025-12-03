@@ -1,5 +1,11 @@
 # Windows电脑如何使用Claude Code编写代码
 
+- 第一步：安装wsl
+- 第二步：配置环境变量
+- 第三步：配置proxy
+- 第四步：安装node
+- 第五步：安装claude code
+
 ### 安装wsl
 
 ```
@@ -21,7 +27,7 @@ export ANTHROPIC_AUTH_TOKEN=sk-xxxxxxxxxxxxxxxxxxxxxxxx
 然后 source ~/.bashrc
 ```
 
-### 配置proxy
+### 配置proxy（可选）
 
 ```
 编辑.bashrc文件，写入
