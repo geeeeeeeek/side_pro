@@ -30,6 +30,8 @@
 
 - [用谷歌云免费服务器搭建Adsense副业网站教学](https://github.com/geeeeeeeek/side_pro/blob/master/docs/%E8%B0%B7%E6%AD%8C%E4%BA%91%E6%90%AD%E5%BB%BA%E5%89%AF%E4%B8%9A%E7%BD%91%E7%AB%99.md)
 
+- [免费Google云服务器搭建天气预报查询网站集成Adsense全过程](https://www.youtube.com/watch?v=Hly-fk-HdoA)
+
 - [手把手教你申请一台永久免费的谷歌云服务器](https://youtu.be/p9I1TKNpwfM?si=8CJ6i2dHCu4nfwJg)
 
 - [使用cloudflare搭建博客网站教程](https://youtu.be/OvZzECdKaek?si=v8FS2jplHERgZU6K)
