@@ -1,4 +1,4 @@
-##  Ubuntu 上使用 fail2ban 可以有效防止 SSH 暴力破解
+##  Ubuntu 上使用 fail2ban 防止 SSH 暴力破解
  
 ### 安装 fail2ban
 
