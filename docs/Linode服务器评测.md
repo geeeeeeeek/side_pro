@@ -35,3 +35,7 @@
 https://www.linode.com/pricing/
 
 
+### 评测结果
+
+![](https://github.com/geeeeeeeek/side_pro/blob/master/docs/raw/Linode.jpg?raw=true)
+
