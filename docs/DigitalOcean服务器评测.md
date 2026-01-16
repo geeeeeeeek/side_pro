@@ -34,4 +34,6 @@ https://m.do.co/c/69f5dcf13067
 - 可以创建多个实例
 
 ### 价格表
+
+https://www.digitalocean.com/pricing/droplets
  
