@@ -28,6 +28,8 @@
 
 - [网站集成亚马逊联盟赚佣金 过程教学](https://youtu.be/6V2XDo9Uy1o?si=jKsboOujLbn-xCDH)
 
+- [cloudflare搭建在线导航网站](https://github.com/geeeeeeeek/side_pro/blob/master/docs/cloudflare%E6%90%AD%E5%BB%BA%E5%9C%A8%E7%BA%BF%E5%AF%BC%E8%88%AA%E5%B7%A5%E5%85%B7%E7%BD%91%E7%AB%99.md)
+
 - [用谷歌云免费服务器搭建Adsense副业网站教学](https://github.com/geeeeeeeek/side_pro/blob/master/docs/%E8%B0%B7%E6%AD%8C%E4%BA%91%E6%90%AD%E5%BB%BA%E5%89%AF%E4%B8%9A%E7%BD%91%E7%AB%99.md)
 
 - [免费Google云服务器搭建天气预报查询网站集成Adsense全过程](https://www.youtube.com/watch?v=Hly-fk-HdoA)
