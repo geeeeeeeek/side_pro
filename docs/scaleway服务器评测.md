@@ -9,9 +9,6 @@
 - 基本性能/连通性
 - 支付方式
 
-### 注册方式
-
- 
  
  
 
@@ -19,6 +16,7 @@
 
 - ping.pe
 - tcptest
+- python3-server
 - goecs
 - https://geotraceroute.com/
 
