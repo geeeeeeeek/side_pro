@@ -38,6 +38,8 @@
 
 - [使用cloudflare搭建博客网站教程](https://youtu.be/OvZzECdKaek?si=v8FS2jplHERgZU6K)
 
+- [使用netlify搭建网站教学](https://github.com/geeeeeeeek/side_pro/blob/master/docs/%E4%BD%BF%E7%94%A8netlify%E6%90%AD%E5%BB%BA%E7%BD%91%E7%AB%99.md)
+
 - [利用谷歌Firebase免费服务搭建副业网站](https://github.com/geeeeeeeek/side_pro/blob/master/docs/%E8%B0%B7%E6%AD%8Cfirebase%E6%90%AD%E5%BB%BA%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7%E7%BD%91%E7%AB%99.md)
 
 - [基于搬瓦工vps搭建的在线招聘副业网站](https://github.com/geeeeeeeek/side_pro/blob/master/docs/%E5%9F%BA%E4%BA%8E%E6%90%AC%E7%93%A6%E5%B7%A5%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E5%9C%A8%E7%BA%BF%E6%8B%9B%E8%81%98%E7%BD%91%E7%AB%99.md)
