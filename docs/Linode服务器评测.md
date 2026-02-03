@@ -40,3 +40,9 @@ https://www.linode.com/pricing/
 ![](https://github.com/geeeeeeeek/side_pro/blob/master/docs/raw/Linode.jpg?raw=true)
 
 
+### 视频演示
+
+
+https://www.youtube.com/watch?v=oNuoH6Ffmlo
+
+
