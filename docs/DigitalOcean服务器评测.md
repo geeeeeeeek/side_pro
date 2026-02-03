@@ -36,4 +36,11 @@ https://m.do.co/c/69f5dcf13067
 ### 价格表
 
 https://www.digitalocean.com/pricing/droplets
+
+### 视频教学
+
+
+https://www.youtube.com/watch?v=EpVwIbQdQ7o
+
+
  
