@@ -16,16 +16,9 @@
 - 域名dns解析
 
 
-### 集成AdSense联盟
-
-- 准备广告代码
-- 点击后台全局，设置自定义头部
-
-
-
-### nginx参考配置
 
 ```
+# nginx配置参考
 server {
   listen 80;
   server_name pan.yourdomain.com; # 换成你的域名
@@ -43,6 +36,16 @@ server {
   }
 }
 ```
+
+
+### 集成AdSense联盟
+
+- 准备广告代码
+- 点击后台全局，设置自定义头部
+
+
+
+ 
 
 
 ### 参考资料
