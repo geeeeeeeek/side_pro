@@ -22,3 +22,35 @@
 - 点击后台全局，设置自定义头部
 
 
+
+### nginx参考配置
+
+```
+server {
+  listen 80;
+  server_name pan.yourdomain.com; # 换成你的域名
+  location / {
+    proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+    proxy_set_header Host $http_host;
+    proxy_set_header X-Real-IP $remote_addr;
+    proxy_set_header Range $http_range;
+    proxy_set_header If-Range $http_if_range;
+    proxy_redirect off;
+    # 下面这一行的端口要改为你一键脚本运行的真实端口
+    proxy_pass http://127.0.0.1:3000; 
+    # 上传大小限制，防止大文件上传失败
+    client_max_body_size 0;
+  }
+}
+```
+
+
+### 参考资料
+
+openlist官网文档
+
+https://doc.oplist.org/
+
+token获取方式
+
+https://api.oplist.org/
