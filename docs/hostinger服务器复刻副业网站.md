@@ -11,6 +11,21 @@
 - 源码上传
 - nginx配置
 
+```
+## nginx配置参考
+server {
+    listen 80;
+    server_name example.com www.example.com; # 换成你的域名或服务器IP
+
+    root /var/www/my-website; # 网站文件存放的根目录
+    index index.html index.htm;
+
+    location / {
+        try_files $uri $uri/ =404;
+    }
+}
+```
+
 ### 域名映射
 
 在域名注册地，将域名的dns的A记录解析到服务器ip
