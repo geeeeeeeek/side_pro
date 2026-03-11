@@ -1,6 +1,10 @@
 > 本文分享Tim老师youtube视频中提到的副业案例源码。
 
 
+### 复刻在线播放器副业网站源码
+
+https://wwbmn.lanzn.com/iN97e3kc4wna
+
 ### 在线房贷计算器源码
 
 [https://github.com/geeeeeeeek/fangdai](https://github.com/geeeeeeeek/fangdai)
