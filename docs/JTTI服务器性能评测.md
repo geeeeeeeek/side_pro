@@ -5,3 +5,14 @@
 - 网速
 - 基本性能
 - 流媒体
+
+
+### 评测工具
+
+- ping.pe
+
+- goecs
+
+- https://geotraceroute.com/
+
+- https://ping.chinaz.com/
