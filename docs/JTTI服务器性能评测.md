@@ -10,7 +10,9 @@
 
 ### 评测工具
 
-- ping.pe
+- tcptest
+
+- python3 -m http.server
 
 - goecs
 
