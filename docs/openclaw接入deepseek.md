@@ -21,6 +21,7 @@ https://api-docs.deepseek.com/zh-cn/
 
 ### 配置过程
 
+```
 ◇  Model/auth provider
 │  Custom Provider
 │
@@ -41,3 +42,4 @@ https://api-docs.deepseek.com/zh-cn/
 │
 ◇  Verification successful.
 
+```
