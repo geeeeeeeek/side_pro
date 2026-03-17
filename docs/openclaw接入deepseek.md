@@ -7,17 +7,12 @@ openclaw接入deepseek的步骤
 npm install -g openclaw
 ```
 
-### 配置deepseek
+### 准备deepseek环境
 
 
-设置baseurl
+Base URL --> https://api.deepseek.com/v1
 
-https://api.deepseek.com/v1
-
-设置apikey
-
-获取地址
-https://api-docs.deepseek.com/zh-cn/
+apikey获取地址 --> https://api-docs.deepseek.com/zh-cn/
 
 ### 配置过程
 
