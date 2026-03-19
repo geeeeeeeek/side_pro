@@ -28,6 +28,17 @@ firebase deploy
 firebase logout
 ```
 
+firebase登录失败怎么办？
+```
+firebase login登录失败，解决办法：设置proxy
+先在cmd命令行中这样: 
+set http_proxy=http://127.0.0.1:10808
+set https_proxy=http://127.0.0.1:10808
+set NODE_TLS_REJECT_UNAUTHORIZED=0
+设置系统代理，然后设置npm的代理
+npm config set proxy http://127.0.0.1:10808
+```
+
 ### 测速
 
 使用tcptest测试全球速度
@@ -44,6 +55,7 @@ firebase logout
 | **部署方式 (Deployment)** | 本地命令行 (CLI) `firebase deploy` | 关联 GitHub 全自动构建 (CI/CD) | Firebase 适合爱敲命令行的全栈极客；CF 适合不懂代码、喜欢一键拉取代码的小白。 |
 | **生态扩展能力** | 极强 (自带数据库、认证、云函数) | 较强 (Workers、D1 数据库) | 如果你的副业网站需要用户登录、存数据，选Firebase；纯静态博客/工具站选 CF。 |
 | **国内访问友好度** | `web.app` 二级域名间歇污染 (需绑自定义域名) | `pages.dev` 二级域名间歇性被阻断 | 无论用哪个，**做 AdSense 副业都必须绑定独立域名！** |
+
 
 
 
