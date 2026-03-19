@@ -41,7 +41,7 @@ npm config set proxy http://127.0.0.1:10808
 
 ### 测速
 
-使用tcptest测试全球速度
+![](https://github.com/geeeeeeeek/side_pro/blob/master/docs/raw/ping.jpg?raw=true)
 
 
 ### 对比Cloudflare
