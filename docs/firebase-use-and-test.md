@@ -30,12 +30,12 @@ firebase logout
 
  
 
-| 对比维度 | ☁️ Firebase Hosting | 🌩️ Cloudflare Pages | 🏆 建议 |
+| 对比维度 | ☁️ Firebase Hosting | 🌩️ Cloudflare Pages | Tim建议 |
 | :--- | :--- | :--- | :--- |
 | **底层网络 (CDN)** | Google 全球骨干网 | Cloudflare 全球 Anycast  | Firebase 在部分海外地区加载极快；CF 国内部分地区可能会被阻断或减速。 |
 | **免费额度 (Free Tier)** | **10 GB 存储** / **10 GB 月流量** | **几乎无限流量** / 每月 500 次免费构建 | Firebase 流量超标停用；CF 随便用。 |
 | **部署方式 (Deployment)** | 本地命令行 (CLI) `firebase deploy` | 关联 GitHub 全自动构建 (CI/CD) | Firebase 适合爱敲命令行的全栈极客；CF 适合不懂代码、喜欢一键拉取代码的小白。 |
-| **生态扩展能力** | 极强 (自带数据库、认证、云函数) | 较强 (Workers、D1 数据库) | 如果你的副业网站需要用户登录、存数据，Firebase 是神器；纯静态博客/工具站无脑选 CF。 |
+| **生态扩展能力** | 极强 (自带数据库、认证、云函数) | 较强 (Workers、D1 数据库) | 如果你的副业网站需要用户登录、存数据，选Firebase；纯静态博客/工具站选 CF。 |
 | **国内访问友好度** | `web.app` 二级域名间歇污染 (需绑自定义域名) | `pages.dev` 二级域名间歇性被阻断 | 无论用哪个，**做 AdSense 副业都必须绑定独立域名！** |
 
 
