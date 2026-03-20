@@ -3,8 +3,8 @@
 
 ### 基本用法
 
-- 第一步：安装node
-- 第二步：安装firebase
+- 第一步：安装node [下载地址](https://nodejs.org/zh-cn/download)
+- 第二步：安装firebase： ```npm install -g firebase-tools```
 - 第三步：新建firebase项目
 - 第四步：firebase登录（注）
 - 第五步：firebase初始化
