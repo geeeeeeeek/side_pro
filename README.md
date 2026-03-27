@@ -4,7 +4,7 @@
 从网上总结了一些适合程序员的副业赚钱途径，分享给大家。
 
 
-- [仅用一个单页网站狂赚5000元](https://github.com/geeeeeeeek/side_pro/blob/master/docs/%E4%BB%85%E7%94%A8%E4%B8%80%E4%B8%AA%E5%8D%95%E9%A1%B5%E7%BD%91%E7%AB%99%E8%B5%9A%E4%BA%865000%E5%85%83.md)
+- [一个单页网站赚5000元](https://github.com/geeeeeeeek/side_pro/blob/master/docs/%E4%BB%85%E7%94%A8%E4%B8%80%E4%B8%AA%E5%8D%95%E9%A1%B5%E7%BD%91%E7%AB%99%E8%B5%9A%E4%BA%865000%E5%85%83.md)
 
 - [我如何通过Adsense副业网站半年赚8000元](https://github.com/geeeeeeeek/side_pro/blob/master/docs/%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87Adsense%E5%89%AF%E4%B8%9A%E7%BD%91%E7%AB%99%E5%8D%8A%E5%B9%B4%E8%B5%9A8000%E5%85%83.md)
 
