@@ -50,4 +50,6 @@
 
 - [谷歌AdSense基本介绍](https://www.youtube.com/watch?v=ddPlZBJsKbE&t=84s)
 
+- [美国静态住宅ip评测-IPRoyal](https://github.com/geeeeeeeek/side_pro/blob/master/docs/iproyal-test.md)
+
 
