@@ -63,6 +63,10 @@ npm config set proxy http://127.0.0.1:10808
 
 https://www.youtube.com/watch?v=kBJeCjrmvP8
 
+### 参考文献
+
+https://net936.blogspot.com/2026/06/google-firebase-cdn.html
+
 
 
 
