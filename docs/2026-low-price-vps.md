@@ -9,11 +9,13 @@
 
 第2家是hostdare，他们家性价比最高的服务器 是他们提供的 cn2和日本软银线路服务器，你像cn2的套餐有这些，日本软银的套餐有这些。我买的是一个洛杉矶机房的cn2服务器，网速确实挺快的，下载速度800M左右，上传速度300M左右。 另外线路走的是cn2和9929和cmi，都是精品线路。另外全球的ping值延迟检测 是在150ms以内。由于性价比很高，他家的cn2线路也常常缺货，大家可以在一些第三方监控工具来观测他们的库存。
 [hostdare入口](https://bill.hostdare.com/aff.php?aff=4286)
+
 <img width="640" height="247" alt="image" src="https://github.com/user-attachments/assets/8b39cc96-e34f-416d-b9a2-bb78ab2693a4" />
 
 
 第3家是搬瓦工，这是一家老牌的加拿大vps厂商，但是在国内的知名度非常高。它的价格也是多年不变 一直是49美元1年。非常非常经典。搬瓦工最大的优势是它的cpu性能超级棒，cpu跑分能到3700多分，非常哇塞。 另外它的网速也很牛逼，即使是普通线路，在白天的时候 网速也能到恐怖的3000M（上海地区），但是晚高峰的时候网速会慢一些。另外 还有一个吸引人的地方是搬瓦工 还支持更换ip 以及 免费切换机房，就是如果你对一个地区不满意，可以切换到其它机房。也是 非常哇塞。
 [搬瓦工入口](https://bwh81.net/aff.php?aff=79811)
+
 <img width="640" height="298" alt="image" src="https://github.com/user-attachments/assets/054c1c7f-a02a-4634-b6cc-b76402bfcdbc" />
 
 
@@ -22,6 +24,7 @@
 
 第5家是cloudclone，这是一个小众vps服务器厂商，这个厂商服务器最大的特点就是便宜，而且支持年付和小时计费，而且支持支付宝。最便宜的是这一台，只有1美元一个月。配置是1c1g1TB流量。我之前也对cloudcone最便宜的服务器做过评测，我觉得它的硬件性能 一般般，网速中规中矩。你像它的cpu跑分只有820分，毕竟它便宜 所以应该用的是成本低廉的cpu。 另外网速的测试 上传速度二三十，下载速度一二百兆左右，不是很稳定。 我还测试了大文件的下载，下载速度在7-8M/s左右。（但是cloudclone的缺点是机房数量太少了，只有洛杉矶机房） 
 [cloudcone入口](https://cloudcone.com/vps/?token=hashtag-26-stor-vps-1&ref=13845)
+
 <img width="640" height="272" alt="image" src="https://github.com/user-attachments/assets/b9b035a8-81d4-498e-9ebf-0ac8b95ee6ff" />
 
 
