@@ -57,4 +57,4 @@
 
 - [Hostdare服务器优惠码汇总](https://geeeeeeeek.github.io/side_pro/hostdare/coupon-code.html)
 
-
+- [搬瓦工低价vps库存监控页面](https://github.com/geeeeeeeek/side_pro/blob/master/docs/bwh-stock-list.md)
