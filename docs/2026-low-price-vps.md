@@ -20,7 +20,7 @@
 
 
 第4家是hostinger， 这是一家美国vps厂商。hostinger最大的优点就是硬件性能好，内存给的很高、很足。你像5美元的这个，内存有4GB，流量4TB，给的很足。特别适合搭建各种副业网站 和 跨境电商独立站。我之前也对hostinger最便宜的服务器做过评测，它的网速特点是：下载速度快，上传速度慢。下载速度大约是290M左右，上传速度有的只有1-2M。所以如果你的业务主要是下载 比如看视频那可以考虑，如果你的业务是上传 那不建议考虑。另外，hostinger的硬件性能也挺好，cpu跑分3780分。
-[hostinger入口](https://hostinger.com/?REFERRALCODE=TCULOVEZWNZL)
+[hostinger入口](https://hostinger.com/?REFERRALCODE=TimVPS)
 
 第5家是cloudclone，这是一个小众vps服务器厂商，这个厂商服务器最大的特点就是便宜，而且支持年付和小时计费，而且支持支付宝。最便宜的是这一台，只有1美元一个月。配置是1c1g1TB流量。我之前也对cloudcone最便宜的服务器做过评测，我觉得它的硬件性能 一般般，网速中规中矩。你像它的cpu跑分只有820分，毕竟它便宜 所以应该用的是成本低廉的cpu。 另外网速的测试 上传速度二三十，下载速度一二百兆左右，不是很稳定。 我还测试了大文件的下载，下载速度在7-8M/s左右。（但是cloudclone的缺点是机房数量太少了，只有洛杉矶机房） 
 [cloudcone入口](https://cloudcone.com/vps/?token=hashtag-26-stor-vps-1&ref=13845)
