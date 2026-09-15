@@ -6,7 +6,7 @@
 
 
 - Hostinger vps服务器入口 (大内存)：
-[https://hostinger.com](https://hostinger.com?REFERRALCODE=TCULOVEZWNZL)
+[https://hostinger.com](https://hostinger.com?REFERRALCODE=TimVPS)
 
 
 - hostdare服务器入口（cn2线路）：
