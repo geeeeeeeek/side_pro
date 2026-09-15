@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=5_DbyvOLeOU
 - DigitalOcean：https://m.do.co/c/69f5dcf13067
 - Linode优惠码：marketplace100-1
 - Vultr：https://www.vultr.com/?ref=7557271
-- Hostinger： https://hostinger.com?REFERRALCODE=TCULOVEZWNZL
+- Hostinger： https://hostinger.com?REFERRALCODE=TimVPS
 
 ### 场景总结
 
