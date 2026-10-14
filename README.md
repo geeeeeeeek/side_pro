@@ -3,7 +3,7 @@
  
 从网上总结了一些适合程序员的副业赚钱途径，分享给大家。
 
-- [中国地区AdSense收款渠道汇总](https://net936.blogspot.com/2026/06/adsenseadsense-hyperwallet.html)
+- [国区AdSense收款渠道汇总](https://net936.blogspot.com/2026/06/adsenseadsense-hyperwallet.html)
 
 - [全网低价vps服务器盘点](https://github.com/geeeeeeeek/side_pro/blob/master/docs/low-price-vps.md)
   
