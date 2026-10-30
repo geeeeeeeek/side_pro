@@ -5,7 +5,7 @@
 
 - [国区AdSense收款渠道汇总](https://net936.blogspot.com/2026/06/adsenseadsense-hyperwallet.html)
 
-- [全网低价vps服务器盘点](https://github.com/geeeeeeeek/side_pro/blob/master/docs/low-price-vps.md)
+- [全网低价vps服务器盘点](https://github.com/geeeeeeeek/vps_server)
   
 - [一个单页网站赚5000元](https://github.com/geeeeeeeek/side_pro/blob/master/docs/%E4%BB%85%E7%94%A8%E4%B8%80%E4%B8%AA%E5%8D%95%E9%A1%B5%E7%BD%91%E7%AB%99%E8%B5%9A%E4%BA%865000%E5%85%83.md)
 
